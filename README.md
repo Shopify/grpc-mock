@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 # grpc-mock
 grpc-mock is yet another grpc mock server inspired by [GripMock](https://github.com/tokopedia/gripmock).
 
